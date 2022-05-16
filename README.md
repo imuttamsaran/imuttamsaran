@@ -1,4 +1,4 @@
- ## About Me 👩‍💼
+ ## About Me 👦
   
 - 👀 I am Uttam Saran, a frontend web developer
 - 🎓 I graduated in 2022 from MSU, Baroda 
